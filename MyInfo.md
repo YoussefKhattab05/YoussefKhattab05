@@ -1,8 +1,13 @@
 # Youssef Khattab  
-**IC Design Engineer | Electronics & Communications Engineering**  
+**IC Design and Verification Engineer | Electronics & Communications Engineering**  
 📍 Cairo, Egypt  
 📧 [youssefkhattab.v@gmail.com](mailto:youssefkhattab.v@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/youssefkhattabVLSI)  
+
+---
+
+## 📚 Education  
+**BSc. Electronics & Electrical Communications Engineering** – Cairo University  
 
 ---
 
@@ -35,8 +40,5 @@ Digital IC Design • ASIC/FPGA Design • RTL to GDSII Flow • Design Verifica
 
 ---
 
-## 📚 Education  
-**BSc. Electronics & Electrical Communications Engineering** – Cairo University  
 
----
 
