@@ -1,5 +1,5 @@
 # Youssef Khattab  
-**IC Design Engineer | MSc. Candidate – Electronics & Communications Engineering**  
+**IC Design Engineer | Electronics & Communications Engineering**  
 📍 Cairo, Egypt  
 📧 [youssefkhattab.v@gmail.com](mailto:youssefkhattab.v@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/youssefkhattabVLSI)  
